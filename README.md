@@ -26,4 +26,3 @@
 ## How to Submit
 
 - Keep committing one artifact per module — the repo *is* the deliverable.
-- Submit your repo URL to the learning platform within 7 days of your cohort ending.
