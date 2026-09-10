@@ -21,7 +21,7 @@
 
 1. **Fork it.** Click "Use this template" and name your copy `my-pm-workspace`.
 2. **Commit per module.** During each lab, fill in that module's file(s) and commit. The folders are already created for you.
-3. **Present & submit.** In Module 6, generate a final presentation from this repo and commit it to `06-systems/final-presentation.html`. Submit your repo URL *and* the presentation within 7 days of cohort end.
+3. **Present.** In Module 6, generate a final presentation from this repo and commit it to `06-systems/final-presentation.html`. Share your repo URL *and* the demo.
 
 ## How to Submit
 
